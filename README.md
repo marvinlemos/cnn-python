@@ -1,2 +1,2 @@
 # cnn-python
-A small python program showing the main steps to build a image classifier based on CNN
+A small python program describing the main steps to build an image classifier based on CNN.
